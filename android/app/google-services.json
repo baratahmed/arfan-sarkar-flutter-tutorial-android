@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111031759048",
+    "project_id": "flutter-afran-f43fc",
+    "storage_bucket": "flutter-afran-f43fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111031759048:android:6aeaa42a81fd005f90f5fd",
+        "android_client_info": {
+          "package_name": "com.example.arfan_sarkar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnCy74A4pKzG2psUlc5G_jE7BDn40Wzx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
